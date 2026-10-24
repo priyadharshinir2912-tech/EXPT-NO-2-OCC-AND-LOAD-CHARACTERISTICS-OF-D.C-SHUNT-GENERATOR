@@ -51,17 +51,23 @@ Fuse rating = 125 % of rated full-load current
 
 𝐂𝐈𝐑𝐂𝐔𝐈𝐓 𝐃𝐈𝐀𝐆𝐑𝐀𝐌
 𝐎𝐏𝐄𝐍 - 𝐂𝐈𝐑𝐂𝐔𝐈𝐓 𝐓𝐄𝐒𝐓
+<img width="1302" height="760" alt="Screenshot 2026-10-24 150251" src="https://github.com/user-attachments/assets/ffa321c0-f062-476e-b5d1-46e69ceb4565" />
+
 𝐋𝐎𝐀𝐃 𝐓𝐄𝐒𝐓
 <img width="1125" height="533" alt="image" src="https://github.com/user-attachments/assets/d1aa8674-36bf-4e7b-bea1-3196007019f9" />
 
 𝐓𝐀𝐁𝐔𝐋𝐀𝐓𝐈𝐎𝐍
 𝐎𝐏𝐄𝐍 - 𝐂𝐈𝐑𝐂𝐔𝐈𝐓 𝐓𝐄𝐒𝐓
+<img width="384" height="376" alt="Screenshot 2026-10-24 150309" src="https://github.com/user-attachments/assets/1d54e93b-0b5e-4460-9ebd-4859be45c85c" />
+
 𝐋𝐎𝐀𝐃 𝐓𝐄𝐒𝐓
 <img width="1920" height="1280" alt="file" src="https://github.com/user-attachments/assets/8bf2630f-f501-4f95-80b8-7513b94a5eb9" />
 
 
 𝐆𝐑𝐀𝐏𝐇
 𝐎𝐏𝐄𝐍 - 𝐂𝐈𝐑𝐂𝐔𝐈𝐓 𝐓𝐄𝐒𝐓
+<img width="738" height="364" alt="Screenshot 2026-10-24 150321" src="https://github.com/user-attachments/assets/ca801eb8-cea9-4ebc-a889-55a64e3417ee" />
+
 𝐋𝐎𝐀𝐃 𝐓𝐄𝐒𝐓
 <img width="1128" height="358" alt="image" src="https://github.com/user-attachments/assets/8d5637fd-c035-4674-a7d6-c2c3a62c96c7" />
 
